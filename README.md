@@ -16,7 +16,6 @@ Here are some ideas to get you started:
   <img
     src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Io_oTI😎;Pleasure+to+see+you!🎉&font=Fira+Code&weight=600&center=true&size=24&color=82aaff">
 </h3>
-<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" style="display: inline-block;" />
@@ -35,11 +34,9 @@ Here are some ideas to get you started:
 <br>
 
 <p align="left">
-
 😄 I love writing code and learn anythings about it.
 
-🏠 This is my [Blog](https://io-oti.github.io/)
-
+🏠 This is my [Blog](https://io-oti.github.io/).
 </p>
 
 <hr>
