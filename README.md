@@ -6,19 +6,19 @@
 
 <p align="center">
   <a href="https://shields.io/">
-    <img src="https://img.shields.io/badge/-Git-000000?logo=git&logoColor=F05032" style="display: inline-block; margin-right: 4px;" alt="Git" />
+    <img src="https://img.shields.io/badge/-Git-000000?logo=git&logoColor=F05032" alt="Git" />
   </a>
   <a href="https://shields.io/">
-    <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black" style="display: inline-block; margin-right: 4px;" alt="Javascript" />
+    <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black" alt="Javascript" />
   </a>
   <a href="https://shields.io/">
-    <img src="https://img.shields.io/badge/-Visual Studio Code-2c2c32?logo=visualstudiocode&logoColor=007ACC" style="display: inline-block; margin-right: 4px;" alt="Visual Studio Code" />
+    <img src="https://img.shields.io/badge/-Visual Studio Code-2c2c32?logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code" />
   </a>
   <a href="https://shields.io/">
-    <img src="https://img.shields.io/badge/-Vue.js-34495e?logo=vuedotjs&logoColor=4FC08D" style="display: inline-block; margin-right: 4px;" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/-Vue.js-34495e?logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
   </a>
   <a href="https://shields.io/">
-    <img src="https://img.shields.io/badge/-Webpack-2b3a42?logo=webpack&logoColor=8DD6F9" style="display: inline-block; margin-right: 4px;" alt="Webpack" />
+    <img src="https://img.shields.io/badge/-Webpack-2b3a42?logo=webpack&logoColor=8DD6F9" alt="Webpack" />
   </a>
   <a href="https://github.com/io-oti/io-oti">
     <img src="https://komarev.com/ghpvc/?username=io-oti" alt="Profile views" />
@@ -32,10 +32,10 @@
 
 <p align="center">
   <a href="https://io-oti.github.io/">
-    <img src="https://img.shields.io/badge/-Github Pages-ffffff?logo=githubpages&logoColor=222222&style=for-the-badge" style="display: inline-block; margin-right: 4px;" alt="Github Pages" />
+    <img src="https://img.shields.io/badge/-Github Pages-ffffff?logo=githubpages&logoColor=222222&style=for-the-badge" alt="Github Pages" />
   </a>
   <a href="https://codepen.io/io_oti/">
-    <img src="https://img.shields.io/badge/-Codepen-ffffff?logo=codepen&logoColor=000000&style=for-the-badge" style="display: inline-block;" alt="Codepen" />
+    <img src="https://img.shields.io/badge/-Codepen-ffffff?logo=codepen&logoColor=000000&style=for-the-badge" alt="Codepen" />
   </a>
 </p>
 
@@ -60,3 +60,13 @@
     </a>
   </div>
 </p>
+
+<style>
+  a {
+    text-decoration: none;
+  }
+
+  a + a {
+    margin-right: 4px;
+  }
+</style>
