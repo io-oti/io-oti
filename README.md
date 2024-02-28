@@ -24,7 +24,7 @@
   <a href="https://io-oti.github.io/">
     <img src="https://img.shields.io/badge/-Github Pages-ffffff?logo=githubpages&logoColor=222222&style=for-the-badge" alt="Github Pages" />
   </a>
-  <a href="https://codepen.io/io_oti/">
+  <a href="https://codepen.io/io_oti">
     <img src="https://img.shields.io/badge/-Codepen-ffffff?logo=codepen&logoColor=000000&style=for-the-badge" alt="Codepen" />
   </a>
 </p>
